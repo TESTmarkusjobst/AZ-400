@@ -1,4 +1,4 @@
-# Commands
+# Working with Git Locally
 
 Scaffold & Test:
 
@@ -53,4 +53,12 @@ Delete Feature Branch
 
 ```
 git branch --delete feature-devops-home-page
+```
+
+Investigate Results:
+
+```
+git log -v
+git log -p
+git reset --hard 5d2441f0be4f1e4ca1f8f83b56dee31251367adc
 ```
