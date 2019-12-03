@@ -1,6 +1,6 @@
 # Scaling Git for Enterprise DevOps
 
-[Module 02 Labs](https://www.azuredevopslabs.com/labs/azuredevops/git/)
+[Module 02 Labs - Exercises 6 & 7](https://www.azuredevopslabs.com/labs/azuredevops/git/)
 
 [Azure DevOps CLI](https://marketplace.visualstudio.com/items?itemName=ms-vsts.cli)
 
