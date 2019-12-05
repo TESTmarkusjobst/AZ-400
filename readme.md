@@ -1,5 +1,11 @@
 # AZ-400 - Microsoft Certified: Azure DevOps Engineer Expert
 
+## Prerequisites
+
+[Git / Github Essentials](/Prerequisites/Git/readme.md)
+
+[VS Code Essentials](/Prerequisites/VSCode/readme.md)
+
 ## Machine Setup
 
 ### Frameworks, CLIs
@@ -14,15 +20,7 @@ Install PowerShell Core:
 dotnet tool install --global PowerShell
 ```
 
-## Prerequisites
-
-[Git / Github Essentials](/Prerequisites/Git/readme.md)
-
-[VS Code Essentials](/Prerequisites/VSCode/readme.md)
-
-### VS Code Extensions
-
-[Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+[Azure DevOps Pipelines - VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
 
 ## Labs
 
