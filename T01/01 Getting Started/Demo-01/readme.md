@@ -9,6 +9,14 @@ dotnet build
 dotnet run
 ```
 
+Init Git:
+
+```
+git init
+git add .
+git commit -m "initialW
+```
+
 Create a feature branch:
 
 ```
@@ -17,7 +25,7 @@ git checkout feature-devops-home-page
 git branch --list
 ```
 
-Content to insert:
+Insert Conent to `views/home/Index.cshtml`:
 
 ```C#
 @{
@@ -55,10 +63,15 @@ Delete Feature Branch
 git branch --delete feature-devops-home-page
 ```
 
-Investigate Results:
+Investigate Logs:
 
 ```
 git log -v
 git log -p
+```
+
+Hard Reset to a specific Commit:
+
+```
 git reset --hard 5d2441f0be4f1e4ca1f8f83b56dee31251367adc
 ```
