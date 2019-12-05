@@ -41,7 +41,7 @@ devops/">Azure DevOps</a>.</p>
 </div>
 ```
 
-Check Status:
+Check Status & commit change:
 
 ```
 git status
@@ -50,7 +50,7 @@ git commit -m "updated welcome page"
 git status
 ```
 
-Merge Branch
+Merge Feature Branch to `master`
 
 ```
 git checkout master
