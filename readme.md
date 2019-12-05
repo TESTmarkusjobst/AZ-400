@@ -8,6 +8,10 @@
 
 ## Machine Setup
 
+[Download](https://dotnet.microsoft.com/download) & Install .NET Core SDK:
+
+[Download](https://nodejs.org/en/) & Install Node.js - Version 12 will fit with most needs
+
 Install PowerShell Core:
 
 ```
