@@ -24,7 +24,7 @@ dotnet tool install --global PowerShell
 
 [Git / Github Essentials](/Prerequisites/Git/readme.md)
 
-[VS Code Essentials](/Prerequisites/VS-Code/readme.md)
+[VS Code Essentials](/Prerequisites/VSCode/readme.md)
 
 ### VS Code Extensions
 
