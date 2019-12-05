@@ -1,6 +1,6 @@
 # Working with Git Locally
 
-Scaffold & Test:
+Scaffold .NET Core MVC Project & Test:
 
 ```
 dotnet new mvc
