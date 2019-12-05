@@ -1,5 +1,9 @@
 # Introduction to Azure Repos
 
+[Azure DevOps CLI](https://marketplace.visualstudio.com/items?itemName=ms-vsts.cli)
+
+[Azure DevOps CLI Reference](https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/?view=azure-cli-latest)
+
 Check Azure CLI version:
 
 ```
@@ -57,7 +61,3 @@ Create a Repo
 ```
 az repos create --name azcli.demo.repo -p "Parts Unlimited"
 ```
-
-# Lab Module 1 - Getting Started with Source Control
-
-[Module 01 Labs - Exercises 1 - 5](https://www.azuredevopslabs.com/labs/azuredevops/git/)

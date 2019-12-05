@@ -4,6 +4,8 @@
 
 [Parts Unlimited - Lab Prerequisites](https://azuredevopslabs.com/labs/azuredevops/prereq/)
 
+[Parts Unlimited Description](https://microsoft.github.io/PartsUnlimited/)
+
 ## Machine Setup
 
 Install PowerShell Core:
