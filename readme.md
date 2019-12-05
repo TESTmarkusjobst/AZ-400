@@ -1,11 +1,5 @@
 # AZ-400 - Microsoft Certified: Azure DevOps Engineer Expert
 
-[Azure DevOps Labs](https://www.azuredevopslabs.com/labs/azuredevops/)
-
-[Parts Unlimited - Lab Prerequisites](https://azuredevopslabs.com/labs/azuredevops/prereq/)
-
-[Parts Unlimited Description](https://microsoft.github.io/PartsUnlimited/)
-
 ## Machine Setup
 
 ### Frameworks, CLIs
@@ -29,3 +23,13 @@ dotnet tool install --global PowerShell
 ### VS Code Extensions
 
 [Azure DevOps Pipelines](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+
+## Labs
+
+[Azure DevOps Labs](https://www.azuredevopslabs.com/labs/azuredevops/)
+
+### Lab Setup
+
+[Parts Unlimited - Lab Prerequisites](https://azuredevopslabs.com/labs/azuredevops/prereq/)
+
+[Parts Unlimited Description](https://microsoft.github.io/PartsUnlimited/)
