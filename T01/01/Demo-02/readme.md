@@ -18,7 +18,7 @@ Login to DevOps:
 az devops login --org https://dev.azure.com/integrationsonline --token vmooxncu6pdaijypsin6ggrfqno4ns477ivrjgn3pytxk3p7smla
 ```
 
-> [Instructions to get an Access Token](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page) - Don't be confused when pasting in the Token even if you don't see something pasted in just press Enter -> better to use `--token` switch
+> [Instructions to get an Access Token](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page) - Don't be confused when pasting in the Token even if you don't see something pasted in just press Enter
 
 Configure Default Orga:
 
@@ -41,17 +41,23 @@ az devops project list -o table
 List Pipelines:
 
 ```
-az pipelines list -p partsunlimited -o table
+az pipelines list -p "Parts Unlimited" -o table
 ```
 
 List a Build Definition
 
 ```
-az pipelines build definition show --id 96 -p partsunlimited
+az pipelines build definition show --id 96 -p "Parts Unlimited"
 ```
+
+> Note: the id might be different in your list
 
 Create a Repo
 
 ```
-az repos create --name azcli.demo.repo -p partsunlimited
+az repos create --name azcli.demo.repo -p "Parts Unlimited"
 ```
+
+# Lab Module 1 - Getting Started with Source Control
+
+[Module 01 Labs - Exercises 1 - 5](https://www.azuredevopslabs.com/labs/azuredevops/git/)
