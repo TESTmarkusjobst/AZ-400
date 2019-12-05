@@ -9,6 +9,7 @@ In this module, you will learn about source control principles and source contro
 - Lesson: Types of Source Control Systems
 - Lesson: Introduction to Azure Repos
 - Lesson: Migrating from TFVC to Git
+- Lab: Version Controlling with Git
 
 ## Module 2 – Scaling Git for Enterprise DevOps
 

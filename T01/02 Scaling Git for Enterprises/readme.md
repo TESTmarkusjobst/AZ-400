@@ -41,9 +41,6 @@ Create a Pull Request:
 
 ## Git Hooks
 
+# Labs
 
-
-
-# Labs Module 2
-
-[Module 02 Labs - Exercises 6 & 7](https://www.azuredevopslabs.com/labs/azuredevops/git/)
+[Code Review with Pull Requests - Exercises 6 & 7](https://www.azuredevopslabs.com/labs/azuredevops/git/)
