@@ -1,4 +1,4 @@
-# Github Essentials
+# Git / Github Essentials
 
 ## Configuration
 

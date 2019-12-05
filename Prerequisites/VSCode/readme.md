@@ -1,4 +1,4 @@
-# Using VS Code
+# VS Code Essentials
 
 ## VS Code Tips & Tricks
 
