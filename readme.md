@@ -22,6 +22,8 @@
 
 [Download](https://nodejs.org/en/) & Install Node.js - Version 12 will fit with most needs
 
+[Download WGet for Windows](https://eternallybored.org/misc/wget/)
+
 Install PowerShell Core:
 
 ```
