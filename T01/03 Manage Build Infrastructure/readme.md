@@ -1,6 +1,6 @@
 # Implement & Manage Build Infrastructure
 
-## Self hosted Agents
+## Configure Self Hosted Build Agents
 
 [Self-hosted Windows Agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops)
 
@@ -30,3 +30,11 @@ mkdir dev-ops-agent;
 cd dev-ops-agent;
 Add-Type -AssemblyName System.IO.Compression.FileSystem ; [System.IO.Compression.ZipFile]::ExtractToDirectory("$HOME\Downloads\vsts-agent-win-x64-2.160.1.zip", "$PWD")
 ```
+
+# Lab
+
+[Lab - Integrate Jenkins with Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/jenkins/)
+
+[Lab -Integrate Your GitHub Projects With Azure Pipelines](https://www.azuredevopslabs.com/labs/azuredevops/github-integration/)
+
+[Lab - Deploying a Multi-Container Application](https://azuredevopslabs.com/labs/vstsextend/kubernetes/)
