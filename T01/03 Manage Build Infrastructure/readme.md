@@ -1,5 +1,11 @@
 # Implement & Manage Build Infrastructure
 
+## Build Pipelines
+
+[YAML Schema Reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema)
+
+[Azure DevOps Pipelines - VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
+
 ## Configure Self Hosted Build Agents
 
 [Self-hosted Windows Agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/v2-windows?view=azure-devops)

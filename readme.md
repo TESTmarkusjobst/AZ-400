@@ -16,7 +16,7 @@
 
 ## Machine Setup
 
-### Frameworks, CLIs
+### Frameworks, Tools, CLIs
 
 [Download](https://dotnet.microsoft.com/download) & Install .NET Core SDK:
 
@@ -24,13 +24,13 @@
 
 [Download WGet for Windows](https://eternallybored.org/misc/wget/)
 
+[PuTTY for Windows 10](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi)
+
 Install PowerShell Core:
 
 ```
 dotnet tool install --global PowerShell
 ```
-
-[Azure DevOps Pipelines - VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
 
 ## Labs
 
