@@ -41,3 +41,11 @@ dotnet tool install --global PowerShell
 [Parts Unlimited - Lab Prerequisites](https://azuredevopslabs.com/labs/azuredevops/prereq/)
 
 [Parts Unlimited Description](https://microsoft.github.io/PartsUnlimited/)
+
+# Configuration Management
+
+Set the .NET Core environment
+
+```
+setx ASPNETCORE_ENVIRONMENT Development | Production
+```
