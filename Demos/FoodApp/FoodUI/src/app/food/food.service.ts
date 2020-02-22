@@ -1,18 +1,16 @@
-import { Injectable } from '@angular/core';
-import { Observable, of } from 'rxjs';
-import { FoodItem } from './food.model';
+import { Injectable } from "@angular/core";
+import { Observable } from "rxjs";
+import { FoodItem } from "./food.model";
+import { HttpClient } from "@angular/common/http";
+import { environment } from "src/environments/environment";
 
 @Injectable({
-  providedIn: 'root'
+  providedIn: "root"
 })
 export class FoodService {
-  constructor() {}
+  constructor(private httpClient: HttpClient) {}
 
   getFood(): Observable<FoodItem[]> {
-    return of([
-      { id: 1, name: 'Butter Chicken', price: 9, calories: 1200 },
-      { id: 2, name: 'Curry Wurst', price: 2.7, calories: 730 },
-      { id: 3, name: 'Blini with Salmon', price: 8.3, calories: 600 }
-    ]);
+    return this.httpClient.get<FoodItem[]>(`${environment.apiurl}food`);
   }
 }

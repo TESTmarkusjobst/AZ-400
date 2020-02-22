@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "H:\\Classes\\AZ-400\\Demos\\SampleApp\\FoodApi\\FoodApi.csproj": {}
+    "H:\\Classes\\AZ-400\\Demos\\FoodApp\\FoodApi\\FoodApi.csproj": {}
   },
   "projects": {
-    "H:\\Classes\\AZ-400\\Demos\\SampleApp\\FoodApi\\FoodApi.csproj": {
+    "H:\\Classes\\AZ-400\\Demos\\FoodApp\\FoodApi\\FoodApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "H:\\Classes\\AZ-400\\Demos\\SampleApp\\FoodApi\\FoodApi.csproj",
+        "projectUniqueName": "H:\\Classes\\AZ-400\\Demos\\FoodApp\\FoodApi\\FoodApi.csproj",
         "projectName": "FoodApi",
-        "projectPath": "H:\\Classes\\AZ-400\\Demos\\SampleApp\\FoodApi\\FoodApi.csproj",
+        "projectPath": "H:\\Classes\\AZ-400\\Demos\\FoodApp\\FoodApi\\FoodApi.csproj",
         "packagesPath": "C:\\Users\\Alexander\\.nuget\\packages\\",
-        "outputPath": "H:\\Classes\\AZ-400\\Demos\\SampleApp\\FoodApi\\obj\\",
+        "outputPath": "H:\\Classes\\AZ-400\\Demos\\FoodApp\\FoodApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
