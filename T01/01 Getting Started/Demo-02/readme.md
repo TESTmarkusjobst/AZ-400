@@ -19,7 +19,7 @@ az extension add --name azure-devops
 Login to DevOps:
 
 ```
-az devops login --org https://dev.azure.com/integrationsonline --token vmooxncu6pdaijypsin6ggrfqno4ns477ivrjgn3pytxk3p7smla
+az devops login --org https://dev.azure.com/integrationstraining
 ```
 
 > [Instructions to get an Access Token](https://docs.microsoft.com/en-us/azure/devops/organizations/accounts/use-personal-access-tokens-to-authenticate?view=azure-devops&tabs=preview-page) - Don't be confused when pasting in the Token even if you don't see something pasted in just press Enter
@@ -27,7 +27,7 @@ az devops login --org https://dev.azure.com/integrationsonline --token vmooxncu6
 Configure Default Orga:
 
 ```
-az devops configure --defaults organization=https://dev.azure.com/integrationsonline
+az devops configure --defaults organization=https://dev.azure.com/integrationstraining
 ```
 
 DevOps Help:
