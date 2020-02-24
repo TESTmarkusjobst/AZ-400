@@ -69,6 +69,8 @@ git push origin
 
 ## Git Versioning
 
+[GitVersion Documentation](https://gitversion.net/docs/usage/usage)
+
 [GitVersion for Azure DevOps](https://marketplace.visualstudio.com/items?itemName=gittools.gitversion)
 
 # Labs
