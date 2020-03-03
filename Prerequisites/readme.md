@@ -6,4 +6,4 @@ Install the following Software on your Computer:
 - [Git](https://git-scm.com/downloads)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 
-Optional installation of the following [VS Code Extensions](/VSCode/) is recomended
+Optional installation of the following [VS Code Extensions](./VSCode/) is recomended
