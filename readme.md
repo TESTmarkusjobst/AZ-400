@@ -49,3 +49,9 @@ Set the .NET Core environment
 ```
 setx ASPNETCORE_ENVIRONMENT Development | Production
 ```
+
+List env variables
+
+```
+Get-ChildItem env:
+```
