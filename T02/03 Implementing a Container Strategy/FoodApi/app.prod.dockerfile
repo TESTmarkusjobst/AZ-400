@@ -1,20 +1,12 @@
-FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS base
-WORKDIR /app
-EXPOSE 8080/tcp
-ENV ASPNETCORE_URLS https://*:5000
-
 FROM mcr.microsoft.com/dotnet/core/sdk:3.1 AS build
-WORKDIR /src
-COPY ["*.csproj", "."]
-RUN dotnet restore "FoodApi.csproj"
+WORKDIR /build
 COPY . .
-RUN dotnet build "FoodApi.csproj" -c Release -o /app
+RUN dotnet restore "FoodApi.csproj"
+RUN dotnet publish -c Release -o /app
 
-FROM build AS publish
-RUN dotnet publish "FoodApi.csproj" -c Release -o /app
-FROM base AS final
+FROM mcr.microsoft.com/dotnet/core/aspnet:3.1 AS final
 WORKDIR /app
-COPY --from=publish /app .
+COPY --from=build /app .
 ENTRYPOINT ["dotnet", "FoodApi.dll"]
 
 # Build Image

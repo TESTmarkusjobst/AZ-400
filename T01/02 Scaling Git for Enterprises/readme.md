@@ -1,6 +1,6 @@
-- # Scaling Git for Enterprise DevOps
+# Scaling Git for Enterprise DevOps
 
-[Merge Conflicts in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts)
+[Handling Merge Conflicts in VS Code](https://code.visualstudio.com/docs/editor/versioncontrol#_merge-conflicts)
 
 [Git Flow Cheatsheet](https://danielkummer.github.io/git-flow-cheatsheet/)
 
@@ -26,9 +26,7 @@ Create a Feature Branch:
 git checkout -b feature/my-feature1
 ```
 
-> Make some change
-
-Commit & Publish the change
+Make some change, commit & Publish the change
 
 ```
 git status
