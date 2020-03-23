@@ -47,7 +47,7 @@ Create a Pull Request:
 
 Forking is done using the Fork Button
 
-![fork](./_images/fork.jpg)
+![fork](../_images/fork.jpg)
 
 Add the repo your forked from as "upstream":
 
