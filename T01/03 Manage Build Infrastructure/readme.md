@@ -2,6 +2,8 @@
 
 ## Build Pipelines
 
+[Build Tasks](https://docs.microsoft.com/en-us/azure/devops/pipelines/tasks/?view=azure-devops)
+
 [YAML Schema Reference](https://docs.microsoft.com/en-us/azure/devops/pipelines/yaml-schema?view=azure-devops&tabs=schema)
 
 [Azure DevOps Pipelines - VS Code Extensions](https://marketplace.visualstudio.com/items?itemName=ms-azure-devops.azure-pipelines)
