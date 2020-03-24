@@ -11,9 +11,3 @@
 # Lab
 
 [Checking Vulnerabilities using WhiteSource Bolt with Visual Studio Team Services ](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
-
-# Demos
-
-[Sonar Cloud](https://docs.microsoft.com/en-us/learn/modules/scan-for-vulnerabilities/)
-
-[WhiteSource Bolt](https://docs.microsoft.com/en-us/learn/modules/scan-open-source/3-set-up-environment)
