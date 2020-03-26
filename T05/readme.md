@@ -36,3 +36,9 @@
 
 - Security and Compliance in the pipeline
 - Azure security and compliance tools and services
+
+## Ressources
+
+[Parts Unlimited](https://microsoft.github.io/PartsUnlimited/)
+
+[Parts Unlimited MRP](https://microsoft.github.io/PartsUnlimitedMRP/)
