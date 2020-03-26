@@ -1,5 +1,38 @@
-# 05 Compliance and Security
+# 05 Implementing Application Infrastructure
 
-# Lab
+## Module 1 Infrastructure and Configuration Azure Tools
 
-[Implement Security and Compliance in an Azure DevOps pipeline](http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html)
+- Infrastructure as Code and Configuration Management
+- Create Azure Resources using ARM Templates
+- Create Azure Resources using Azure CLI
+- Create Azure Resources by using Azure PowerShell
+- Additional Automation Tools
+- Version Control
+
+## Module 2 Azure Automation
+
+- Azure Automation
+- Azure Automation State Configuration (DSC)
+
+## Module 3 Azure Compute services
+
+- Infrastructure as a Service
+- Platform as a Service
+- Serverless and HPC compute services
+- Azure Service Fabric
+- Azure Kubernetes Service
+- Application Architecture models
+- Choosing a Compute Service
+
+## Module 4 Third Party and Open Source Tool integration with Azure
+
+- Chef with Azure
+- Puppet with Azure
+- Ansible with Azure
+- Cloud-init with Azure
+- Terraform with Azure
+
+## Module 5 Compliance and Security
+
+- Security and Compliance in the pipeline
+- Azure security and compliance tools and services
