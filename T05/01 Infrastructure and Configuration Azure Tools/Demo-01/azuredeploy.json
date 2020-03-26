@@ -5,7 +5,14 @@
         "storageAccounts_demostorageap_name": {
             "defaultValue": "demostorageap",
             "type": "String"
+        },
+        "repoUrl": {
+            "type": "string"
+        },
+        "branch": {
+            "type": "string"
         }
+
     },
     "variables": {
     },
@@ -92,7 +99,9 @@
                 "[resourceId('Microsoft.Storage/storageAccounts', parameters('storageAccounts_demostorageap_name'))]"
             ],
             "properties": {
-                "publicAccess": "None"
+                "RepoUrl": "[parameters('repoUrl')]",
+                "branch": "[parameters('branch')]",
+                "IsManualIntegration": true
             }
         }
     ]

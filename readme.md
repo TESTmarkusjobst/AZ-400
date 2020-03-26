@@ -7,5 +7,3 @@
 - T05 - Implementing Application Infrastructure
 - T06 - Implementing Continuous Feedback
 - T07 - Designing a DevOps Strategy
-
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://azuredeploy.net/)
