@@ -4,6 +4,8 @@
 
 [Azure REST API Reference](https://docs.microsoft.com/en-us/rest/api/azure/)
 
+[ARM Template Documentation](https://docs.microsoft.com/en-us/azure/azure-resource-manager/templates/)
+
 [Azure Quickstart Templates](https://azure.microsoft.com/en-us/resources/templates/)
 
 [Azure 101 Quickstarter Templates](https://github.com/Azure/azure-quickstart-templates)
