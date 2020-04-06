@@ -7,3 +7,5 @@
 - T05 - Implementing Application Infrastructure
 - T06 - Implementing Continuous Feedback
 - T07 - Designing a DevOps Strategy
+
+[Lab Demo Recording](https://github.com/MicrosoftLearning/Lab-Demo-Recordings/blob/master/AZ-400.md)
