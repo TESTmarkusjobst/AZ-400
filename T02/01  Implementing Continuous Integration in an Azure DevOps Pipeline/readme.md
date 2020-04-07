@@ -1,5 +1,3 @@
-![status-badge](https://dev.azure.com/trainingsimple/AZ-400-T02/_apis/build/status/FoodApp-API-Build)
-
 # Implementing Continuous Integration in an Azure DevOps Pipeline
 
 [Build Options](https://docs.microsoft.com/en-us/azure/devops/pipelines/build/options?view=azure-devops&tabs=yaml)
