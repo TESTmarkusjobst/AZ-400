@@ -10,4 +10,8 @@
 
 # Lab
 
+[Microsoft Learning - Whitesource](https://docs.microsoft.com/en-us/learn/modules/scan-open-source/)
+
+[Microsoft Learning - Sonar Cloud](https://docs.microsoft.com/en-us/learn/modules/scan-for-vulnerabilities/)
+
 [Checking Vulnerabilities using WhiteSource Bolt with Visual Studio Team Services ](https://www.azuredevopslabs.com/labs/vstsextend/WhiteSource/)
