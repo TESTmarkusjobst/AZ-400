@@ -20,21 +20,21 @@ az appservice plan create -n az-400-container -g az-400 --sku b1 --is-linux
 Build Image
 
 ```
-docker build --rm -f "app.prod.dockerfile" -t skillsapi .
+docker build --rm -f "app.prod.dockerfile" -t foodapi .
 ```
 
 Run Image
 
 ```
-docker run skillsapi -d --rm -it -p 8080:5000
+docker run foodapi -d --rm -it -p 8080:5000
 ```
 
 Login to ACR & Publish Image to Contaiener Registry
 
 ```
 az acr login --name az400cr
-docker tag skillsapi az400cr.azurecr.io/skillsapi
-docker push az400cr.azurecr.io/skillsapi
+docker tag foodapi az400cr.azurecr.io/foodapi
+docker push az400cr.azurecr.io/foodapi
 ```
 
 > Note: As an alternative to `az acr login` you could use: `docker login az400cr.azurecr.io`
@@ -43,7 +43,7 @@ docker push az400cr.azurecr.io/skillsapi
 
 ```
 az acr update -n az400cr --admin-enabled true
-az webapp create -g az-400 -p az-400-container -n az400-foodui -i az400cr.azurecr.io/skillsapi
+az webapp create -g az-400 -p az-400-container -n az400-foodui -i az400cr.azurecr.io/foodapi
 ```
 
 # Lab
