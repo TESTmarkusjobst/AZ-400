@@ -7,3 +7,9 @@
 [NuGet](https://www.nuget.org/)
 
 [NpmJS](https://www.npmjs.com/)
+
+# Labs
+
+[Create a release pipeline in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/create-release-pipeline/)
+
+[Create a multistage pipeline by using Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/create-multi-stage-pipeline/)
