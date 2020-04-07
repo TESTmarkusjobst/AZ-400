@@ -43,7 +43,7 @@ docker push az400cr.azurecr.io/foodapi
 
 ```
 az acr update -n az400cr --admin-enabled true
-az webapp create -g az-400 -p az-400-container -n az400-foodui -i az400cr.azurecr.io/foodapi
+az webapp create -g az-400 -p az-400-container -n az400-foodapi -i az400cr.azurecr.io/foodapi:latest
 ```
 
 # Lab
