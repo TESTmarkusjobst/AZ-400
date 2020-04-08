@@ -14,6 +14,10 @@
 
 ## Lab
 
+[Setting up secrets in the pipeline with Azure Key vault - Pdf Page 123]
+
+[Manage database changes in Azure Pipelines](https://docs.microsoft.com/en-us/learn/modules/manage-database-changes-in-azure-pipelines/)
+
 [Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines](https://www.azuredevopslabs.com/labs/vstsextend/terraform/)
 
 [Controlling Deployments using Release Gates](https://azuredevopslabs.com/labs/vstsextend/releasegates/)
