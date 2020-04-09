@@ -1,5 +1,7 @@
 # 05 Compliance and Security
 
+[Azure Security Center](https://docs.microsoft.com/en-us/azure/security-center/)
+
 [Secure DevOps Kit for Azure](https://github.com/azsk/DevOpsKit-docs)
 
 [Azure Policy Documentation](https://docs.microsoft.com/en-us/azure/governance/policy/)
