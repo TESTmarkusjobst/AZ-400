@@ -8,7 +8,7 @@ Please register your Class Lab Environments
 
 [Free Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 
-[Office 365 Developer E5 Tenant](https://docs.microsoft.com/en-us/sharepoint/dev/spfx/set-up-your-developer-tenant)
+[Microsoft 365 Developer E5 Tenant](<(https://developer.microsoft.com/en-us/microsoft-365/dev-program)>)
 
 > Note: You can also use your MSDN Ressources. We do not support taking Labs in Production Environments.
 
