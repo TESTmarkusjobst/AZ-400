@@ -6,6 +6,8 @@
 
 [Azure Advanced Thread Protections](https://docs.microsoft.com/en-us/azure-advanced-threat-protection/what-is-atp)
 
+[Azure BluePrints](https://docs.microsoft.com/en-us/azure/governance/blueprints/overview)
+
 # Lab
 
 [Implement Security and Compliance in Azure DevOps pipelines](http://microsoft.github.io/PartsUnlimited/iac/200.2x-IaC-SecurityandComplianceinpipeline.html)
