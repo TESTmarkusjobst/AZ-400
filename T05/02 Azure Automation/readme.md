@@ -6,6 +6,8 @@
 
 [Azure Automation State Configuration](https://docs.microsoft.com/en-us/azure/automation/automation-dsc-overview)
 
+[Configure DSC for Linux](https://docs.microsoft.com/en-us/powershell/scripting/dsc/getting-started/lnxgettingstarted?view=powershell-7)
+
 # Lab
 
 [Walkthrough - Azure Automation - Create a Runbook](https://docs.microsoft.com/en-us/azure/automation/automation-quickstart-create-runbook)
