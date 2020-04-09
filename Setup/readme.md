@@ -8,7 +8,7 @@ Please register your Class Lab Environments
 
 [Free Azure DevOps](https://azure.microsoft.com/en-us/services/devops/?nav=min)
 
-[Microsoft 365 Developer E5 Tenant](<(https://developer.microsoft.com/en-us/microsoft-365/dev-program)>)
+[Microsoft 365 Developer E5 Tenant](https://developer.microsoft.com/en-us/microsoft-365/dev-program)
 
 > Note: You can also use your MSDN Ressources. We do not support taking Labs in Production Environments.
 
@@ -20,11 +20,12 @@ Install the following Software on your Computer (Windows 10, Mac or Linux):
 
 - [VSCode](https://code.visualstudio.com/download)
 - [Git Bash, Version >= 2.2 required for Gitflow ](https://git-scm.com/downloads)
+- [Git Extensions](http://gitextensions.github.io/)
 - [Docker Desktop](https://www.docker.com/products/docker-desktop)
 - [.NET Core SDK 3.1](https://dotnet.microsoft.com/download)
 - [Node.js LTS](https://nodejs.org/en/)
-- [WGet for Windows](https://eternallybored.org/misc/wget/)
 - [Chocolatey](https://chocolatey.org/install)
+- [WGet for Windows](https://eternallybored.org/misc/wget/)
 - [PuTTY for Windows 10](https://the.earth.li/~sgtatham/putty/latest/w64/putty-64bit-0.73-installer.msi)
 
 Install PowerShell Core:

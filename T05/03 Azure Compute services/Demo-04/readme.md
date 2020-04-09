@@ -1,5 +1,11 @@
 # Demo Instructions
 
+Install function tools:
+
+```
+npm install -g azure-functions-core-tools
+```
+
 Scaffold Project:
 
 ```
