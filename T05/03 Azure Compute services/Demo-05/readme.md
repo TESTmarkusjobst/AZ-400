@@ -1,12 +1,12 @@
 # Demo - AKS
 
-az group create --name myResourceGroup --location westeurope
+az group create --name az-400 --location westeurope
 
-az aks create --resource-group myResourceGroup --name myAKSCluster --node-count 1 --enable-addons monitoring --generate-ssh-keys
+az aks create --resource-group az-400 --name voteCluster --node-count 1 --enable-addons monitoring --generate-ssh-keys
 
 az aks install-cli
 
-az aks get-credentials --resource-group myResourceGroup --name myAKSCluster
+az aks get-credentials --resource-group az-400 --name voteCluster
 
 kubectl get nodes
 
